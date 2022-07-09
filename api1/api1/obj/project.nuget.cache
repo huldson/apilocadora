@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fax5g1kgW29n0p5Xn6hnSrN8dTC6lDaw/+uEPR9CFhvKRpkXNC8MI3GYO/cKGOk6ny3uWYGlst9tCCsPM2aOMw==",
+  "dgSpecHash": "aWjax016PBW+zfs3516VI6mcKHUvuMVIe/QhAs5oPT7IiQ2ocYr6WhfDHymvVLOM0y0BKmGFvVjUbmOXhqtk/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hulds\\source\\repos\\api1\\api1\\api1.csproj",
+  "projectFilePath": "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\git\\apilocadora\\api1\\api1\\api1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hulds\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hulds\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

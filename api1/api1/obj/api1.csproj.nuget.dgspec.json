@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hulds\\source\\repos\\api1\\api1\\api1.csproj": {}
+    "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\git\\apilocadora\\api1\\api1\\api1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hulds\\source\\repos\\api1\\api1\\api1.csproj": {
+    "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\git\\apilocadora\\api1\\api1\\api1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hulds\\source\\repos\\api1\\api1\\api1.csproj",
+        "projectUniqueName": "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\git\\apilocadora\\api1\\api1\\api1.csproj",
         "projectName": "api1",
-        "projectPath": "C:\\Users\\hulds\\source\\repos\\api1\\api1\\api1.csproj",
+        "projectPath": "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\git\\apilocadora\\api1\\api1\\api1.csproj",
         "packagesPath": "C:\\Users\\hulds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hulds\\source\\repos\\api1\\api1\\obj\\",
+        "outputPath": "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\git\\apilocadora\\api1\\api1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

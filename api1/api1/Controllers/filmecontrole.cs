@@ -59,5 +59,17 @@ namespace api1.Controllers
             return NoContent();
 
         }
+        [HttpDelete("{id}")]
+        public IActionResult Deletefilme(int id) {
+            Filme filme = _context.filmes.FirstOrDefault(filme => filme.Id == id);
+            if (filme == null)
+            {
+                return NotFound();
+            }
+            _context.Remove(filme);
+            _context.SaveChanges();
+            return NoContent();
+
+        }
     }
 }
